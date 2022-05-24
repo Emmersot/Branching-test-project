@@ -16,3 +16,10 @@ p {
 body {
   background-color: salmon;
 }
+
+
+body {
+  background-color: salmon;
+  font-family: sans-serif;
+  text-align: center;
+}
